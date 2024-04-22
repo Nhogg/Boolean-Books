@@ -1,0 +1,16 @@
+As I mentioned in the video, you can download mysql and set up a connection to run this.
+The steps are as follows:
+Download MySQL for your machine (tested on windows, not sure about any other os) from this link:
+https://dev.mysql.com/downloads/mysql/
+
+Run the installer
+When prompted, select typical install. Just confirm everything until you get to the portion that asks
+for a username and password. Leave the username as default and make the password "admin1234"
+After that, complete the install as normal.
+After it is installed you should have a new application on your machine. Hit the windows key and type mysql.
+Open MySQL command line client. It will prompt you for a password, enter "admin1234"
+After that, return to the code and run Main.java. If you get an error, it is likely from the JDBC not working properly.
+
+If that is the case, in Intellij, go to project structure > modules and hit the plus. Select JAR and
+ navigate to mysql-connector-j-8.30. After that, click the check box to the left and hit apply at the bottom.
+ Everything should work fine after that.

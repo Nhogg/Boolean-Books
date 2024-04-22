@@ -1,0 +1,501 @@
+Year,Album,Artist,Genre,Quantity
+1967,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,Rock,2
+1966,Pet Sounds,The Beach Boys,Rock,2
+1966,Revolver,The Beatles,Rock,3
+1965,Highway 61 Revisited,Bob Dylan,Rock,1
+1965,Rubber Soul,The Beatles,"Rock, Pop",2
+1971,What's Going On,Marvin Gaye,Funk / Soul,4
+1972,Exile on Main St.,The Rolling Stones,Rock,2
+1979,London Calling,The Clash,Rock,4
+1966,Blonde on Blonde,Bob Dylan,"Rock, Blues",3
+1968,"The Beatles (""The White Album"")",The Beatles,Rock,1
+1976,The Sun Sessions,Elvis Presley,Rock,3
+1959,Kind of Blue,Miles Davis,Jazz,4
+1967,The Velvet Underground & Nico,The Velvet Underground,Rock,1
+1969,Abbey Road,The Beatles,Rock,3
+1967,Are You Experienced,The Jimi Hendrix Experience,"Rock, Blues",1
+1975,Blood on the Tracks,Bob Dylan,Rock,4
+1991,Nevermind,Nirvana,Rock,3
+1975,Born to Run,Bruce Springsteen,Rock,3
+1968,Astral Weeks,Van Morrison,"Jazz, Rock, Blues, Folk, World, & Country",3
+1982,Thriller,Michael Jackson,"Funk / Soul, Pop",3
+1982,The Great Twenty_Eight,Chuck Berry,Rock,3
+1990,The Complete Recordings,Robert Johnson,Blues,3
+1970,John Lennon/Plastic Ono Band,John Lennon / Plastic Ono Band,Rock,4
+1973,Innervisions,Stevie Wonder,Funk / Soul,4
+1963,"Live at the Apollo, 1962",James Brown,Funk / Soul,3
+1977,Rumours,Fleetwood Mac,Rock,4
+1987,The Joshua Tree,U2,Rock,4
+1971,Who's Next,The Who,Rock,1
+1969,Led Zeppelin,Led Zeppelin,Rock,2
+1971,Blue,Joni Mitchell,Pop,3
+1965,Bringing It All Back Home,Bob Dylan,"Rock, Folk, World, & Country",3
+1969,Let It Bleed,The Rolling Stones,Rock,2
+1976,Ramones,Ramones,Rock,4
+1968,Music From Big Pink,The Band,Rock,2
+1972,The Rise and Fall of Ziggy Stardust and the Spiders From Mars,David Bowie,Rock,4
+1971,Tapestry,Carole King,"Rock, Pop",3
+1976,Hotel California,Eagles,Rock,4
+2001,The Anthology,Muddy Waters,"Folk, World, & Country",4
+1963,Please Please Me,The Beatles,Rock,2
+1967,Forever Changes,Love,Rock,3
+1977,Never Mind the Bollocks Here's the Sex Pistols,Sex Pistols,Rock,2
+1967,The Doors,The Doors,Rock,4
+1973,The Dark Side of the Moon,Pink Floyd,Rock,1
+1975,Horses,Patti Smith,Rock,4
+1969,"The Band (""The Brown Album"")",The Band,"Classical, Stage & Screen",2
+1984,Legend: The Best of Bob Marley and The Wailers,Bob Marley & The Wailers,Reggae,1
+1965,A Love Supreme,John Coltrane,Jazz,1
+1988,It Takes a Nation of Millions to Hold Us Back,Public Enemy,Hip Hop,3
+1971,At Fillmore East,The Allman Brothers Band,"Rock, Blues",1
+1957,Here's Little Richard,Little Richard,"Rock, Blues",3
+1970,Bridge Over Troubled Water,Simon & Garfunkel,Rock,4
+1975,Greatest Hits,Al Green,Funk / Soul,4
+1964,Meet The Beatles!,The Beatles,Rock,3
+1991,The Birth of Soul,Ray Charles,"Jazz, Funk / Soul",4
+1968,Electric Ladyland,The Jimi Hendrix Experience,"Rock, Blues",3
+1956,Elvis Presley,Elvis Presley,Rock,2
+1976,Songs in the Key of Life,Stevie Wonder,Funk / Soul,3
+1968,Beggars Banquet,The Rolling Stones,"Rock, Funk / Soul, Pop",2
+1976,Chronicle: The 20 Greatest Hits,Creedence Clearwater Revival,Rock,1
+1969,Trout Mask Replica,Captain Beefheart & His Magic Band,"Rock, Blues",2
+1970,Greatest Hits,Sly & The Family Stone,Funk / Soul,4
+1987,Appetite for Destruction,Guns N' Roses,Rock,4
+1991,Achtung Baby,U2,"Electronic, Rock",1
+1971,Sticky Fingers,The Rolling Stones,Rock,4
+1991,Back to Mono (1958-1969),Phil Spector,"Rock, Funk / Soul, Pop",2
+1970,Moondance,Van Morrison,"Jazz, Rock, Funk / Soul, Folk, World, & Country",4
+2000,Kid A,Radiohead,"Electronic, Rock",2
+1979,Off the Wall,Michael Jackson,"Funk / Soul, Pop",1
+1971,[Led Zeppelin IV],Led Zeppelin,Rock,4
+1977,The Stranger,Billy Joel,Rock,1
+1986,Graceland,Paul Simon,"Jazz, Rock, Funk / Soul, Pop, Folk, World, & Country",1
+1972,Superfly,Curtis Mayfield,"Funk / Soul, Stage & Screen",1
+1975,Physical Graffiti,Led Zeppelin,Rock,2
+1970,After the Gold Rush,Neil Young,Rock,4
+1991,Star Time,James Brown,Funk / Soul,1
+1984,Purple Rain,Prince and the Revolution,"Electronic, Rock, Funk / Soul, Stage & Screen",2
+1980,Back in Black,AC/DC,Rock,1
+1965,Otis Blue: Otis Redding Sings Soul,Otis Redding,Funk / Soul,1
+1969,Led Zeppelin II,Led Zeppelin,Rock,1
+1971,Imagine,John Lennon,Rock,1
+1977,The Clash,The Clash,Rock,4
+1972,Harvest,Neil Young,Rock,3
+1967,Axis: Bold as Love,The Jimi Hendrix Experience,Rock,4
+1967,I Never Loved a Man the Way I Love You,Aretha Franklin,Funk / Soul,3
+1968,Lady Soul,Aretha Franklin,Funk / Soul,4
+1984,Born in the U.S.A.,Bruce Springsteen,Rock,1
+1979,The Wall,Pink Floyd,Rock,3
+1968,At Folsom Prison,Johnny Cash,"Folk, World, & Country",1
+1969,Dusty in Memphis,Dusty Springfield,"Rock, Funk / Soul",4
+1972,Talking Book,Stevie Wonder,Funk / Soul,1
+1973,Goodbye Yellow Brick Road,Elton John,Rock,2
+1978,20 Golden Greats,Buddy Holly,Rock,4
+1987,"Sign ""Peace"" the Times",Prince,"Rock, Reggae",3
+1984,40 Greatest Hits,Hank Williams,"Folk, World, & Country",2
+1970,Bitches Brew,Miles Davis,Jazz,4
+1969,Tommy,The Who,Rock,3
+1963,The Freewheelin' Bob Dylan,Bob Dylan,"Folk, World, & Country",4
+1978,This Year's Model,Elvis Costello,Rock,3
+1971,There's a Riot Goin' On,Sly & The Family Stone,Funk / Soul,1
+1968,Odessey and Oracle,The Zombies,Rock,1
+1955,In the Wee Small Hours,Frank Sinatra,"Jazz, Pop",2
+1966,Fresh Cream,Cream,"Rock, Blues",2
+1959,Giant Steps,John Coltrane,Jazz,3
+1970,Sweet Baby James,James Taylor,Rock,1
+1962,Modern Sounds in Country and Western Music,Ray Charles,"Funk / Soul, Folk, World, & Country",3
+1977,Rocket to Russia,Ramones,Rock,2
+2003,Portrait of a Legend 1951-1964,Sam Cooke,"Latin, Funk / Soul",3
+1971,Hunky Dory,David Bowie,Rock,3
+1966,Aftermath,The Rolling Stones,Rock,3
+1970,Loaded,The Velvet Underground,Rock,4
+1995,The Bends,Radiohead,Rock,2
+1966,If You Can Believe Your Eyes and Ears,The Mamas and the Papas,Rock,4
+1974,Court and Spark,Joni Mitchell,Rock,4
+1967,Disraeli Gears,Cream,Rock,2
+1967,The Who Sell Out,The Who,Rock,1
+1965,Out of Our Heads,The Rolling Stones,Rock,3
+1970,Layla and Other Assorted Love Songs,Derek and the Dominos,Rock,4
+2005,Late Registration,Kanye West,Hip Hop,1
+1960,At Last!,Etta James,"Funk / Soul, Blues",3
+1968,Sweetheart of the Rodeo,The Byrds,Rock,3
+1969,Stand!,Sly & The Family Stone,Funk / Soul,1
+1972,The Harder They Come,Various Artists,"Reggae,�Pop,�Folk, World, & Country,�Stage & Screen",4
+1986,Raising Hell,Run D.M.C.,Hip Hop,1
+1967,Moby Grape,Moby Grape,Rock,2
+1971,Pearl,Janis Joplin,"Rock, Blues",2
+1973,Catch a Fire,The Wailers,Reggae,3
+1967,Younger Than Yesterday,The Byrds,Rock,2
+1973,Raw Power,Iggy and The Stooges,Rock,3
+1980,Remain in Light,Talking Heads,"Electronic, Rock",2
+1977,Marquee Moon,Television,Rock,2
+1970,Paranoid,Black Sabbath,Rock,4
+1977,Saturday Night Fever: The Original Movie Sound Track,Various Artists,"Electronic,�Stage & Screen",3
+1973,"The Wild, the Innocent & the E Street Shuffle",Bruce Springsteen,Rock,3
+1994,Ready to Die,The Notorious B.I.G.,Hip Hop,4
+1992,Slanted and Enchanted,Pavement,Rock,3
+1974,Greatest Hits,Elton John,Rock,1
+1985,Tim,The Replacements,Rock,3
+1992,The Chronic,Dr. Dre,Hip Hop,1
+1974,Rejuvenation,The Meters,Funk / Soul,4
+1978,Parallel Lines,Blondie,"Electronic, Rock",2
+1965,Live at the Regal,B.B. King,Blues,1
+1963,A Christmas Gift for You From Phil Spector,Phil Spector,"Rock, Funk / Soul, Pop",3
+1968,Gris-Gris,"Dr. John, the Night Tripper","Jazz, Rock, Funk / Soul, Blues",4
+1988,Straight Outta Compton,N.W.A,Hip Hop,2
+1977,Aja,Steely Dan,"Jazz, Rock",4
+1967,Surrealistic Pillow,Jefferson Airplane,Rock,2
+1970,Deja vu,"Crosby, Stills, Nash & Young",Rock,2
+1973,Houses of the Holy,Led Zeppelin,Rock,4
+1969,Santana,Santana,"Rock, Latin, Funk / Soul",2
+1978,Darkness on the Edge of Town,Bruce Springsteen,Rock,1
+2004,Funeral,Arcade Fire,Rock,4
+1979,The B 52's / Play Loud,The B 52's,"Electronic, Rock, Pop",2
+1991,The Low End Theory,A Tribe Called Quest,Hip Hop,2
+1958,Moanin' in the Moonlight,Howlin' Wolf,Blues,4
+1980,Pretenders,Pretenders,Rock,3
+1989,Paul's Boutique,Beastie Boys,"Hip Hop, Rock, Funk / Soul",1
+1980,Closer,Joy Division,Rock,1
+1975,Captain Fantastic and the Brown Dirt Cowboy,Elton John,Rock,4
+1975,Alive!,KISS,Rock,3
+1971,Electric Warrior,T. Rex,Rock,1
+1968,The Dock of the Bay,Otis Redding,Funk / Soul,1
+1997,OK Computer,Radiohead,"Electronic, Rock",3
+1982,1999,Prince,"Funk / Soul, Pop",1
+2002,The Very Best of Linda Ronstadt,Linda Ronstadt,"Rock, Pop",4
+1973,Let's Get It On,Marvin Gaye,Funk / Soul,3
+1982,Imperial Bedroom,Elvis Costello & The Attractions,Rock,1
+1986,Master of Puppets,Metallica,Rock,3
+1977,My Aim Is True,Elvis Costello,Rock,3
+1977,Exodus,Bob Marley & The Wailers,Reggae,2
+1970,Live at Leeds,The Who,Rock,3
+1968,The Notorious Byrd Brothers,The Byrds,Rock,2
+1971,Every Picture Tells a Story,Rod Stewart,Rock,1
+1972,Something/Anything?,Todd Rundgren,Rock,4
+1976,Desire,Bob Dylan,Rock,3
+1970,Close to You,Carpenters,"Rock, Pop",3
+1976,Rocks,Aerosmith,Rock,2
+1978,One Nation Under a Groove,Funkadelic,Funk / Soul,3
+1992,The Anthology: 1961-1977,Curtis Mayfield and The Impressions,Funk / Soul,4
+2001,The Definitive Collection,ABBA,"Electronic, Pop",3
+1965,"The Rolling Stones, Now!",The Rolling Stones,"Rock, Blues, Pop",1
+1974,Natty Dread,Bob Marley & The Wailers,Reggae,1
+1975,Fleetwood Mac,Fleetwood Mac,"Rock, Pop",1
+1975,Red Headed Stranger,Willie Nelson,"Folk, World, & Country",3
+1990,The Immaculate Collection,Madonna,"Electronic, Pop",4
+1969,The Stooges,The Stooges,Rock,2
+1973,Fresh,Sly & The Family Stone,Funk / Soul,1
+1986,So,Peter Gabriel,"Electronic, Rock, Funk / Soul, Pop",1
+1967,Buffalo Springfield Again,Buffalo Springfield,"Rock, Pop",2
+1969,Happy Trails,Quicksilver Messenger Service,Rock,4
+1969,From Elvis in Memphis,Elvis Presley,"Rock, Funk / Soul, Folk, World, & Country",4
+1970,Fun House,The Stooges,Rock,4
+1969,The Gilded Palace of Sin,The Flying Burrito Brothers,"Rock, Folk, World, & Country",3
+1994,Dookie,Green Day,Rock,4
+1972,Transformer,Lou Reed,Rock,2
+1966,"Blues Breakers With Eric Clapton (""The Beano Album"")",John Mayall & The Bluesbreakers,"Rock,�Blues",2
+1998,"Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968",Various Artists,Rock,4
+1983,Murmur,R.E.M.,Rock,3
+1967,The Best of Little Walter,Little Walter,Blues,3
+2001,Is This It,The Strokes,Rock,4
+1979,Highway to Hell,AC/DC,Rock,2
+1994,The Downward Spiral,Nine Inch Nails,"Electronic, Rock",4
+1966,"Parsley, Sage, Rosemary and Thyme",Simon & Garfunkel,"Rock, Pop, Folk, World, & Country",2
+1987,Bad,Michael Jackson,"Funk / Soul, Pop",2
+2006,Modern Times,Bob Dylan,Rock,3
+1968,Wheels of Fire,Cream,"Rock, Blues",4
+1980,Dirty Mind,Prince,Funk / Soul,2
+1970,Abraxas,Santana,"Rock, Latin",3
+1970,Tea for the Tillerman,Cat Stevens,"Rock, Stage & Screen",3
+1991,Ten,Pearl Jam,Rock,3
+1969,Everybody Knows This Is Nowhere,Neil Young & Crazy Horse,Rock,1
+1975,Wish You Were Here,Pink Floyd,Rock,3
+1994,Crooked Rain Crooked Rain,Pavement,Rock,2
+1981,Tattoo You,The Rolling Stones,Rock,3
+1991,Proud Mary: The Best of Ike and Tina Turner,Ike & Tina Turner,Funk / Soul,1
+1973,New York Dolls,New York Dolls,Rock,2
+1986,Bo Diddley / Go Bo Diddley,Bo Diddley,"Rock, Blues",3
+1961,Two Steps From the Blues,"Bobby ""Blue"" Bland","Funk / Soul, Blues",3
+1986,The Queen Is Dead,The Smiths,"Rock, Pop",1
+1986,Licensed to Ill,Beastie Boys,Hip Hop,1
+1970,Look-Ka Py Py,The Meters,Funk / Soul,1
+1991,Loveless,My Bloody Valentine,Rock,3
+1972,New Orleans Piano,Professor Longhair,"Funk / Soul, Blues",4
+1983,War,U2,Rock,4
+1999,The Neil Diamond Collection,Neil Diamond,"Rock, Pop",4
+2004,American Idiot,Green Day,Rock,4
+1982,Nebraska,Bruce Springsteen,Rock,2
+1989,Doolittle,Pixies,Rock,1
+1987,Paid in Full,Eric B. & Rakim,Hip Hop,1
+1975,Toys in the Attic,Aerosmith,Rock,3
+1989,Nick of Time,Bonnie Raitt,"Rock, Pop",4
+1975,A Night at the Opera,Queen,Rock,4
+1972,The Kink Kronikles,The Kinks,Rock,2
+1965,Mr. Tambourine Man,The Byrds,Rock,4
+1968,Bookends,Simon & Garfunkel,Rock,1
+2000,The Ultimate Collection,Patsy Cline,"Folk, World, & Country",1
+1992,Mr. Excitement!,Jackie Wilson,Funk / Soul,1
+1965,My Generation,The Who,Rock,2
+1962,Howlin' Wolf,Howlin' Wolf,Blues,3
+1989,Like a Prayer,Madonna,"Electronic, Pop",2
+1972,Can't Buy a Thrill,Steely Dan,Rock,4
+1984,Let It Be,The Replacements,Rock,3
+1984,Run D.M.C.,Run D.M.C.,Hip Hop,2
+1970,Black Sabbath,Black Sabbath,Rock,3
+2000,The Marshall Mathers LP,Eminem,Hip Hop,3
+1993,All Killer No Filler! The Jerry Lee Lewis Anthology,Jerry Lee Lewis,"Rock, Blues, Folk, World, & Country",4
+1966,Freak Out!,The Mothers of Invention,"Electronic, Rock",2
+1969,Live/Dead,The Grateful Dead,Rock,3
+1959,The Shape of Jazz to Come,Ornette Coleman,Jazz,2
+1992,Automatic for the People,R.E.M.,Rock,4
+1996,Reasonable Doubt,Jay Z,Hip Hop,3
+1977,Low,David Bowie,"Electronic, Rock",3
+2001,The Blueprint,Jay Z,Hip Hop,4
+1980,The River,Bruce Springsteen,Rock,1
+1966,Complete & Unbelievable: The Otis Redding Dictionary of Soul,Otis Redding,Funk / Soul,3
+1991,"Metallica (""The Black Album"")",Metallica,Rock,2
+1977,Trans Europa Express,Kraftwerk,Electronic,1
+1985,Whitney Houston,Whitney Houston,"Funk / Soul, Pop",4
+1968,The Kinks Are The Village Green Preservation Society,The Kinks,Rock,2
+1997,The Velvet Rope,Janet,"Electronic, Funk / Soul, Pop",2
+1978,Stardust,Willie Nelson,"Pop, Folk, World, & Country",1
+1970,American Beauty,Grateful Dead,Rock,1
+1969,"Crosby, Stills & Nash","Crosby, Stills & Nash","Rock, Folk, World, & Country",1
+1988,Tracy Chapman,Tracy Chapman,Rock,1
+1970,Workingman's Dead,Grateful Dead,Rock,2
+1959,The Genius of Ray Charles,Ray Charles,"Jazz, Pop",4
+1968,Child Is Father to the Man,"Blood, Sweat & Tears",Rock,1
+1973,Quadrophenia,The Who,Rock,3
+1972,Paul Simon,Paul Simon,Rock,2
+1985,Psychocandy,The Jesus and Mary Chain,Rock,4
+1978,Some Girls,The Rolling Stones,Rock,2
+1965,The Beach Boys Today!,The Beach Boys,Rock,3
+1997,Dig Me Out,Sleater Kinney,Rock,3
+1966,Going to a Go-Go,Smokey Robinson & The Miracles,Funk / Soul,2
+1974,Nightbirds,LaBelle,Funk / Soul,3
+1999,The Slim Shady LP,Eminem,Hip Hop,3
+1975,Mothership Connection,Parliament,Funk / Soul,3
+1989,Rhythm Nation 1814,Janet Jackson,"Electronic, Hip Hop, Pop",1
+1997,Anthology of American Folk Music,Various,"Blues, Folk, World, & Country",1
+1973,Aladdin Sane,David Bowie,Rock,3
+2000,All That You Can't Leave Behind,U2,Rock,4
+1994,My Life,Mary J. Blige,Hip Hop,1
+1964,Folk Singer,Muddy Waters,Blues,3
+1974,Can't Get Enough,Barry White,Funk / Soul,4
+1978,The Cars,The Cars,"Electronic, Rock",2
+1972,Music of My Mind,Stevie Wonder,Funk / Soul,4
+1972,I'm Still in Love With You,Al Green,Funk / Soul,4
+1980,Los Angeles,X,Rock,1
+1968,Anthem of the Sun,Grateful Dead,Rock,4
+1967,Something Else by The Kinks,The Kinks,Rock,2
+1973,Call Me,Al Green,Funk / Soul,2
+1977,Talking Heads: 77,Talking Heads,Rock,4
+1975,The Basement Tapes,Bob Dylan and the Band,Rock,2
+1968,White Light/White Heat,The Velvet Underground,Rock,2
+1969,Kick Out the Jams,MC5,Rock,1
+1970,Songs of Love and Hate,Leonard Cohen,"Folk, World, & Country",1
+1985,Meat Is Murder,The Smiths,Rock,2
+1968,We're Only in It for the Money,The Mothers of Invention,"Electronic, Rock",1
+2003,The College Dropout,Kanye West,Hip Hop,2
+1994,Weezer (Blue Album),Weezer,Rock,1
+1971,Master of Reality,Black Sabbath,Rock,4
+1971,Coat of Many Colors,Dolly Parton,"Folk, World, & Country",3
+1990,Fear of a Black Planet,Public Enemy,Hip Hop,2
+1967,John Wesley Harding,Bob Dylan,Rock,1
+1994,Grace,Jeff Buckley,Rock,4
+1998,Car Wheels on a Gravel Road,Lucinda Williams,"Folk, World, & Country",1
+1996,Odelay,Beck,"Electronic, Hip Hop, Funk / Soul, Pop",4
+1964,A Hard Day's Night,The Beatles,"Rock, Stage & Screen",2
+1956,Songs for Swingin' Lovers!,Frank Sinatra,"Jazz, Pop",4
+1969,Willy and the Poor Boys,Creedence Clearwater Revival,Rock,2
+1991,Blood Sugar Sex Magik,Red Hot Chili Peppers,Rock,4
+1994,The Sun Records Collection,Various,"Rock, Funk / Soul, Blues, Pop, Folk, World, & Country",3
+1988,Nothing's Shocking,Jane's Addiction,Rock,1
+1994,MTV Unplugged in New York,Nirvana,Rock,4
+1998,The Miseducation of Lauryn Hill,Lauryn Hill,Hip Hop,3
+1979,Damn the Torpedoes,Tom Petty and the Heartbreakers,Rock,3
+1969,The Velvet Underground,The Velvet Underground,Rock,1
+1988,Surfer Rosa,Pixies,Rock,4
+1972,Back Stabbers,The O'Jays,Funk / Soul,4
+1973,Burnin',The Wailers,Reggae,1
+2001,Amnesiac,Radiohead,"Electronic, Rock",3
+1972,Pink Moon,Nick Drake,"Rock, Folk, World, & Country",4
+1972,Sail Away,Randy Newman,"Rock, Pop",1
+1981,Ghost in the Machine,The Police,"Rock, Pop",4
+1976,Station to Station,David Bowie,"Rock, Funk / Soul",3
+1977,Slowhand,Eric Clapton,Rock,4
+1989,Disintegration,The Cure,"Electronic, Rock",3
+1993,Exile in Guyville,Liz Phair,Rock,2
+1988,Daydream Nation,Sonic Youth,Rock,2
+1986,In the Jungle Groove,James Brown,Funk / Soul,4
+1975,Tonight's the Night,Neil Young,Rock,2
+1965,Help!,The Beatles,"Rock, Stage & Screen",1
+1982,Shoot Out the Lights,Richard & Linda Thompson,"Rock, Folk, World, & Country",1
+1981,Wild Gift,X,Rock,4
+1979,Squeezing Out Sparks,Graham Parker & The Rumour,"Rock, Blues",1
+1994,Superunknown,Soundgarden,Rock,4
+2007,In Rainbows,Radiohead,"Electronic, Rock",1
+1971,Aqualung,Jethro Tull,Rock,2
+1968,Cheap Thrills,Big Brother & the Holding Company,Rock,4
+1974,The Heart of Saturday Night,Tom Waits,"Jazz, Pop, Folk, World, & Country",4
+1981,Damaged,Black Flag,Rock,3
+1999,Play,Moby,Electronic,3
+1990,Violator,Depeche Mode,Electronic,3
+1977,Bat Out of Hell,Meat Loaf,Rock,3
+1973,Berlin,Lou Reed,Rock,2
+1984,Stop Making Sense,Talking Heads,"Rock, Funk / Soul",2
+1989,3 Feet High and Rising,De La Soul,Hip Hop,4
+1967,The Piper at the Gates of Dawn,Pink Floyd,Rock,1
+1960,Muddy Waters at Newport 1960,Muddy Waters,"Rock, Blues",2
+2003,The Black Album,Jay Z,Hip Hop,3
+1966,Roger the Engineer,The Yardbirds,"Rock, Blues",1
+1979,Rust Never Sleeps,Neil Young & Crazy Horse,Rock,1
+1985,Brothers in Arms,Dire Straits,Rock,3
+2010,My Beautiful Dark Twisted Fantasy,Kanye West,Hip Hop,1
+1978,52nd Street,Billy Joel,"Jazz, Rock, Pop",4
+1965,Having a Rave Up,The Yardbirds,Rock,1
+1970,12 Songs,Randy Newman,"Rock, Pop",2
+1967,Between the Buttons,The Rolling Stones,Rock,1
+1960,Sketches of Spain,Miles Davis,Jazz,2
+1972,Honky Ch�teau,Elton John,Rock,3
+1979,Singles Going Steady,Buzzcocks,Rock,3
+2000,Stankonia,OutKast,"Hip Hop, Funk / Soul",1
+1993,Siamese Dream,The Smashing Pumpkins,Rock,2
+1987,Substance 1987,New Order,Electronic,3
+1971,L.A. Woman,The Doors,Rock,1
+1992,Rage Against the Machine,Rage Against the Machine,"Hip Hop, Rock",4
+1994,American Recordings,Johnny Cash,"Folk, World, & Country",4
+1998,Ray of Light,Madonna,"Electronic, Pop",4
+1972,Eagles,Eagles,Rock,1
+1987,Louder Than Bombs,The Smiths,Rock,2
+1973,Mott,Mott the Hoople,Rock,2
+2006,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,Rock,1
+1979,Reggatta de Blanc,The Police,"Rock, Pop",3
+1969,Volunteers,Jefferson Airplane,Rock,1
+1975,Siren,Roxy Music,Rock,1
+1974,Late for the Sky,Jackson Browne,Rock,1
+1995,Post,Bjork,Electronic,1
+1991,The Ultimate Collection: 1948-1990,John Lee Hooker,Blues,2
+1995,(What's the Story) Morning Glory?,Oasis,"Rock, Pop",2
+1994,CrazySexyCool,TLC,"Electronic, Hip Hop, Funk / Soul",4
+1973,Funky Kingston,Toots & The Maytals,Reggae,1
+2011,The Smile Sessions,The Beach Boys,Rock,2
+1976,The Modern Lovers,The Modern Lovers,Rock,2
+1978,More Songs About Buildings and Food,Talking Heads,Rock,2
+1966,A Quick One,The Who,Rock,2
+2001,"""Love and Theft""",Bob Dylan,Rock,2
+1974,Pretzel Logic,Steely Dan,"Jazz, Rock",4
+1993,Enter the Wu_Tang: 36 Chambers,Wu Tang Clan,Hip Hop,3
+1985,The Indestructible Beat of Soweto,Various Artists,"Funk / Soul,�Folk, World, & Country",4
+1989,The End of the Innocence,Don Henley,Rock,1
+2003,Elephant,The White Stripes,Rock,1
+1976,The Pretender,Jackson Browne,Rock,2
+1970,Let It Be,The Beatles,Rock,1
+2007,Kala,M.I.A.,"Electronic, Hip Hop, Reggae, Pop",3
+1974,Good Old Boys,Randy Newman,"Rock, Pop",3
+2007,Sound of Silver,LCD Soundsystem,"Electronic, Rock",1
+1973,For Your Pleasure,Roxy Music,Rock,4
+1991,Blue Lines,Massive Attack,"Electronic, Reggae",4
+1983,Eliminator,ZZ Top,Rock,2
+1985,Rain Dogs,Tom Waits,"Rock, Blues",4
+1995,Anthology: The Best of The Temptations,The Temptations,"Electronic, Funk / Soul",1
+1999,Californication,Red Hot Chili Peppers,Rock,1
+1994,Illmatic,Nas,Hip Hop,1
+1973,(pronounced 'leh-'nerd 'skin-'nerd),Lynyrd Skynyrd,Rock,2
+1972,Dr. John's Gumbo,Dr. John,Funk / Soul,2
+1974,Radio City,Big Star,Rock,1
+1993,Rid of Me,PJ Harvey,Rock,1
+1980,Sandinista!,The Clash,"Rock, Reggae",2
+1989,I Do Not Want What I Haven't Got,Sinead O'Connor,"Rock, Funk / Soul, Blues",1
+1967,Strange Days,The Doors,Rock,3
+1997,Time Out of Mind,Bob Dylan,"Rock, Blues",2
+1974,461 Ocean Boulevard,Eric Clapton,Rock,1
+1977,Pink Flag,Wire,Rock,1
+1984,Double Nickels on the Dime,Minutemen,Rock,3
+1981,Beauty and the Beat,The Go Go's,Rock,2
+1978,Van Halen,Van Halen,Rock,1
+1999,Mule Variations,Tom Waits,"Electronic, Rock",1
+1980,Boy,U2,Rock,3
+1973,Band on the Run,Paul McCartney & Wings,Rock,3
+1994,Dummy,Portishead,Electronic,1
+1957,"The ""Chirping"" Crickets",The Crickets,"Rock, Pop",4
+1990,"The Best of the Girl Groups, Volume 1",Various Artists,"Rock,�Pop",4
+1963,Presenting the Fabulous Ronettes Featuring Veronica,The Ronettes,"Rock, Pop",4
+2001,Anthology,Diana Ross & The Supremes,"Electronic, Funk / Soul",4
+2002,The Rising,Bruce Springsteen,Rock,4
+1974,Grievous Angel,Gram Parsons,"Rock, Folk, World, & Country",4
+1978,Cheap Trick at Budokan,Cheap Trick,Rock,1
+2002,Sleepless,Peter Wolf,"Rock, Blues, Pop",4
+1978,Outlandos d'Amour,The Police,Rock,1
+1975,Another Green World,Brian Eno,Electronic,3
+2007,Vampire Weekend,Vampire Weekend,Rock,1
+2000,"Stories From the City, Stories From the Sea",PJ Harvey,Rock,3
+1973,Here Come the Warm Jets,Brian Eno,Rock,4
+1970,All Things Must Pass,George Harrison,Rock,3
+1972,#1 Record,Big Star,Rock,4
+1993,In Utero,Nirvana,Rock,4
+2002,Sea Change,Beck,Rock,3
+2008,Tha Carter III,Lil Wayne,"Hip Hop, Funk / Soul",4
+1979,Boys Don't Cry,The Cure,Rock,3
+1985,"Live at the Harlem Square Club, 1963",Sam Cooke,Funk / Soul,4
+1985,Rum Sodomy & the Lash,The Pogues,"Rock, Folk, World, & Country",1
+1977,Suicide,Suicide,"Electronic, Rock",3
+1978,Q: Are We Not Men? A: We Are Devo!,DEVO,Rock,1
+1977,In Color,Cheap Trick,Rock,4
+1972,The World Is a Ghetto,War,Funk / Soul,4
+1976,Fly Like an Eagle,Steve Miller Band,Rock,4
+1970,Back in the USA,MC5,Rock,4
+1964,Getz / Gilberto,Stan Getz�/�Joao Gilberto�featuring�Antonio Carlos Jobim,Jazz,1
+1983,Synchronicity,The Police,"Rock, Pop",1
+1978,Third/Sister Lovers,Big Star,Rock,3
+1973,For Everyman,Jackson Browne,Rock,2
+2006,Back to Black,Amy Winehouse,"Funk / Soul, Pop",3
+1971,John Prine,John Prine,"Folk, World, & Country",3
+1987,Strictly Business,EPMD,Hip Hop,3
+1971,Love It to Death,Alice Cooper,Rock,3
+1984,How Will the Wolf Survive?,Los Lobos,"Rock, Latin",4
+1978,"Here, My Dear",Marvin Gaye,Funk / Soul,2
+2005,Z,My Morning Jacket,Rock,3
+1970,Tumbleweed Connection,Elton John,"Rock, Folk, World, & Country",4
+1968,The Drifters' Golden Hits,The Drifters,"Rock, Funk / Soul",3
+1994,Live Through This,Hole,Rock,3
+1979,Metal Box,Public Image Ltd.,"Electronic, Rock",3
+1987,Document,R.E.M.,Rock,4
+1981,Heaven Up Here,Echo and The Bunnymen,Rock,4
+1987,Hysteria,Def Leppard,Rock,1
+1999,69 Love Songs,The Magnetic Fields,"Electronic, Rock",1
+2002,A Rush of Blood to the Head,Coldplay,Rock,3
+1987,Tunnel of Love,Bruce Springsteen,Rock,3
+1965,The Paul Butterfield Blues Band,The Paul Butterfield Blues Band,"Rock, Blues",2
+1996,The Score,Fugees,Hip Hop,4
+1985,Radio,L.L. Cool J,Hip Hop,3
+1974,I Want to See the Bright Lights Tonight,Richard & Linda Thompson,Rock,2
+1987,Faith,George Michael,"Electronic, Rock, Funk / Soul, Blues, Pop",2
+1984,The Smiths,The Smiths,Rock,2
+2001,Proxima estacion: Esperanza,Manu Chao,"Rock, Reggae, Latin",4
+1979,Armed Forces,Elvis Costello & The Attractions,Rock,2
+1997,Life After Death,The Notorious B.I.G.,Hip Hop,4
+1996,Down Every Road,Merle Haggard,"Folk, World, & Country",1
+2002,All Time Greatest Hits,Loretta Lynn,"Folk, World, & Country",1
+1971,Maggot Brain,Funkadelic,"Rock, Funk / Soul",3
+1995,Only Built 4 Cuban Linx,Raekwon,Hip Hop,3
+2000,Voodoo,D'Angelo,"Hip Hop, Funk / Soul",3
+1986,Guitar Town,Steve Earle,"Rock, Folk, World, & Country",1
+1979,Entertainment!,Gang of Four,Rock,2
+1972,All the Young Dudes,Mott the Hoople,Rock,4
+1994,Vitalogy,Pearl Jam,Rock,3
+1975,That's the Way of the World,"Earth, Wind & Fire",Funk / Soul,4
+1983,She's So Unusual,Cyndi Lauper,"Electronic, Rock",3
+1985,New Day Rising,Husker Du,Rock,4
+1976,Destroyer,KISS,Rock,4
+1973,Tres hombres,ZZ Top,Rock,1
+1967,Born Under a Bad Sign,Albert King,"Funk / Soul, Blues",4
+1983,Touch,Eurythmics,"Electronic, Pop",4
+2002,Yankee Hotel Foxtrot,Wilco,Rock,4
+2007,Oracular Spectacular,MGMT,"Electronic, Rock, Pop",4
+1972,Give It Up,Bonnie Raitt,Rock,4
+1969,Boz Scaggs,Boz Scaggs,Rock,4
+2001,White Blood Cells,The White Stripes,Rock,4
+1989,The Stone Roses,The Stone Roses,Rock,1
+1971,Live in Cook County Jail,B.B. King,Blues,3
+1998,Aquemini,OutKast,Hip Hop,3
